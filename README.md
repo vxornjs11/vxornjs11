@@ -18,8 +18,10 @@ Stacks 기술 스택
 ✅ Github Stats    
 -------------
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vxornjs11&show_icons=true&theme=radical) <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vxornjs11&layout=compact"><br><br
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vxornjs11&layout=compact"><br>
 
+## 활동요약
+-----------
 |프로젝트|개발기간|설명|
 |------|---|---|
 |WEB Project(JAVA)|2022.11.8~11.17|주문제작 케이크|
