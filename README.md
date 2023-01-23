@@ -1,5 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=WELLCOME%20&fontSize=90)    
 
+### notion
+-------------
+📓: https://puffy-sheep-773.notion.site/48b22b4874474a749b93c2df030e9e57 <br><br><br>
+
 Stacks 기술 스택
 -------------
 
