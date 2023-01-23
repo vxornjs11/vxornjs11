@@ -20,8 +20,10 @@ Stacks 기술 스택
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vxornjs11&show_icons=true&theme=radical)
 
 
-|제목|내용|설명|
+|프로젝트|개발기간|설명|
 |------|---|---|
-|테스트1|테스트2|테스트3|
-|테스트1|테스트2|테스트3|
-|테스트1|테스트2|테스트3|
+|WEB Project(JAVA)|테스트2|주문제작 케이크|
+|WEB Project(Spring)|테스트2|주문제작 케이크|
+|R semi project|테스트2|테스트3|
+|Flutter semi project|테스트2|강아지 bmi계산|
+|Flutter main project|테스트2|중고차 |
