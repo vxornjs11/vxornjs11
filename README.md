@@ -24,7 +24,7 @@ Stacks 기술 스택
 -----------
   |프로젝트|개발기간|내용|
   |------|---|---|
-  |WEB Project(JAVA)|2022.11.2~ <br>   11.15|주문제작 케이크 <br>🔖:[Git링크](https://github.com/vxornjs11/MVC_Allways)|
+  |WEB Project(JAVA)|2022.11.2~ <br>   11.15|[주문제작 케이크](#주문제작 케이크 ALLWAYS)주문제작 케이크 <br>🔖:[Git링크](https://github.com/vxornjs11/MVC_Allways)|
   |WEB Project(Spring)|2022.11.17~  <br>  11.24|기존 프로젝트 스프링 코드수정 <br>🔖:[Git링크](https://github.com/vxornjs11/spring_portfolio1/tree/main)|
   |R semi project|2022.12.10~1  <br>  2.14|R 데이터 정제방식 익히기|
   |Flutter semi project|2022.12.23~  <br>  12.27|강아지 bmi계산|
