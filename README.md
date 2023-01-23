@@ -22,8 +22,8 @@ Stacks 기술 스택
 
 |프로젝트|개발기간|설명|
 |------|---|---|
-|WEB Project(JAVA)|테스트2|주문제작 케이크|
-|WEB Project(Spring)|테스트2|주문제작 케이크|
-|R semi project|테스트2|테스트3|
-|Flutter semi project|테스트2|강아지 bmi계산|
-|Flutter main project|테스트2|중고차 |
+|WEB Project(JAVA)|2022.11.8~11.17|주문제작 케이크|
+|WEB Project(Spring)|2022.11.23~11.30|기존 프로젝트 스프링 코드수정|
+|R semi project|2022.12.10~12.14|R 데이터 정제방식 익히기|
+|Flutter semi project|2022.12.23~27|강아지 bmi계산|
+|Flutter main project|2023.1.1~1.20|중고차 |
