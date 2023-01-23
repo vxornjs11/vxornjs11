@@ -1,7 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=WELLCOME%20&fontSize=90)    
-✅ Github Stats    
--------------
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vxornjs11&show_icons=true&theme=radical)
 
 Stacks 기술 스택
 -------------
@@ -14,3 +11,10 @@ Stacks 기술 스택
 
 ### DB   
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=black"> <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=black"> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=black">
+
+
+
+
+✅ Github Stats    
+-------------
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vxornjs11&show_icons=true&theme=radical)
