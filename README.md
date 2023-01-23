@@ -2,7 +2,7 @@
 
 ### notion
 -------------
-📓: https://puffy-sheep-773.notion.site/48b22b4874474a749b93c2df030e9e57 <br><br><br>
+📓notion: https://puffy-sheep-773.notion.site/48b22b4874474a749b93c2df030e9e57 <br><br><br>
 
 Stacks 기술 스택
 -------------
