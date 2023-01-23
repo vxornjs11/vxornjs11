@@ -38,7 +38,7 @@ Stacks 기술 스택
  |프로젝트명|개발기간|내용|
   |------|---|---|
   |주문제작 케이크 ALLWAYS|2022.11.2~ <br>   11.15| 주문제작 케이크의 수요 증가로 전화통화나 SNS 연결 없이도 구매가 가능한 간편한 주문제작 케이크 구매 사이트를 제작했습니다. |
-  |WEB Project(Spring)|2022.11.17~  <br>  11.24| 기존 java와 jsp로 제작한 ALLWAYS 프로젝트를 Spring코드로 바꾸는 작업을 진행하였습니다. <br>🔖:[프로젝트 링크](https://github.com/vxornjs11/spring_portfolio1/tree/main)|
-  |R semi project|2022.12.10~1  <br>  2.14| R을 통한 머신러닝 AI 학습을 익히고 데이터 분석기술을 익혔습니다. |
-  |Flutter semi project|2022.12.23~  <br>  12.27| main프로젝트을 진행 하기 전 Flutter와 dart의 기본 문법과 기술을 통하여 강아지의 비만 정도를 체크할 수 있는 강아지 BMI검사 앱을 만들었습니다.|
-  |Flutter main project|2023.1.9.1~  <br>  1.23| 중고차 시장에서 구매자가 자신의 자동차 시세를 알기란 어려운 일입니다. 따라서 간편하게 자신의 자동차 옵션과 사용 기록을 입력하면 중고차 ㅣ시장에서의 최소 가격과 최대 가격을 알려주는 앱을 제작하였습니다. <br> 🔖:[프로젝트 링크](https://github.com/vxornjs11/R-Spring-Flutter/tree/parktekwon) <img src="https://user-images.githubusercontent.com/113036608/213998064-91428e50-80ec-4e94-b89c-dd6f9217d162.png" width="30" height="15" />[유튜브링크](https://www.youtube.com/watch?v=fujMvps_eR8&t=166s)|
+  |주문제작 케이크 ALLWAYS(Spring)|2022.11.17~  <br>  11.24| 기존 java와 jsp로 제작한 ALLWAYS 프로젝트를 Spring코드로 바꾸는 작업을 진행하였습니다. <br>🔖:[프로젝트 링크](https://github.com/vxornjs11/spring_portfolio1/tree/main)|
+  |R_머신러닝|2022.12.10~1  <br>  2.14| R을 통한 머신러닝 AI 학습을 익히고 데이터 분석기술을 익혔습니다. |
+  |강아지 BMI 테스트 Mung!|2022.12.23~  <br>  12.27| main프로젝트을 진행 하기 전 Flutter와 dart의 기본 문법과 기술을 통하여 강아지의 비만 정도를 체크할 수 있는 강아지 BMI검사 앱을 만들었습니다.|
+  |Carbot(중고차 시세예측)|2023.1.9.1~  <br>  1.23| 중고차 시장에서 구매자가 자신의 자동차 시세를 알기란 어려운 일입니다. 따라서 간편하게 자신의 자동차 옵션과 사용 기록을 입력하면 중고차 ㅣ시장에서의 최소 가격과 최대 가격을 알려주는 앱을 제작하였습니다. <br> 🔖:[프로젝트 링크](https://github.com/vxornjs11/R-Spring-Flutter/tree/parktekwon) <img src="https://user-images.githubusercontent.com/113036608/213998064-91428e50-80ec-4e94-b89c-dd6f9217d162.png" width="30" height="15" />[유튜브링크](https://www.youtube.com/watch?v=fujMvps_eR8&t=166s)|
