@@ -31,8 +31,8 @@ Stacks 기술 스택
 -----------
   |프로젝트|개발기간|내용|
   |------|---|---|
-  |WEB Project(JAVA)|2022.11.2~11.15|주문제작 케이크 [프로젝트 링크](https://github.com/vxornjs11/MVC_Allways)|
-  |WEB Project(Spring)|2022.11.17~11.24|기존 프로젝트 스프링 코드수정 [프로젝트 링크](https://github.com/vxornjs11/spring_portfolio1/tree/main)|
-  |R semi project|2022.12.10~12.14|R 데이터 정제방식 익히기|
-  |Flutter semi project|2022.12.23~27|강아지 bmi계산|
-  |Flutter main project|2023.1.9.1~1.23|R을 이용한 AI 머신러닝 학습을 통한 중고차 시세예측 프로젝트 [프로젝트 링크](https://github.com/vxornjs11/R-Spring-Flutter/tree/parktekwon) |
+  |WEB Project(JAVA)|2022.11.2~   11.15|주문제작 케이크 [프로젝트 링크](https://github.com/vxornjs11/MVC_Allways)|
+  |WEB Project(Spring)|2022.11.17~1   1.24|기존 프로젝트 스프링 코드수정 [프로젝트 링크](https://github.com/vxornjs11/spring_portfolio1/tree/main)|
+  |R semi project|2022.12.10~1   2.14|R 데이터 정제방식 익히기|
+  |Flutter semi project|2022.12.23~   12.27|강아지 bmi계산|
+  |Flutter main project|2023.1.9.1~    1.23|R을 이용한 AI 머신러닝 학습을 통한 중고차 시세예측 프로젝트 [프로젝트 링크](https://github.com/vxornjs11/R-Spring-Flutter/tree/parktekwon) |
