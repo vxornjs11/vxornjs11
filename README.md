@@ -28,7 +28,7 @@ Stacks 기술 스택
 -----------
   |프로젝트|개발기간|내용|
   |------|---|---|
-  |WEB Project(JAVA)|2022.11.2~ <br>   11.15| 주문제작 케이크 <br>🔖:[Git링크](https://github.com/vxornjs11/MVC_Allways)([유튜브링크](https://www.youtube.com/watch?v=ZphHRdIfOyE))|
+  |WEB Project(JAVA)|2022.11.2~ <br>   11.15| 주문제작 케이크 <br>🔖:[Git링크](https://github.com/vxornjs11/MVC_Allways) <img src="https://user-images.githubusercontent.com/113036608/213998064-91428e50-80ec-4e94-b89c-dd6f9217d162.png" width="30" height="15" />([유튜브링크](https://www.youtube.com/watch?v=ZphHRdIfOyE))|
   |WEB Project(Spring)|2022.11.17~  <br>  11.24|기존 프로젝트 스프링 코드수정 <br>🔖:[Git링크](https://github.com/vxornjs11/spring_portfolio1/tree/main)|
   |R semi project|2022.12.10~1  <br>  2.14|R 데이터 정제방식 익히기|
   |Flutter semi project|2022.12.23~  <br>  12.27|강아지 bmi계산|
@@ -41,7 +41,7 @@ Stacks 기술 스택
 -----------
  |프로젝트명|개발기간|내용|
   |------|---|---|
-  |주문제작 케이크 ALLWAYS|2022.11.2~ <br>   11.15| 주문제작 케이크의 수요 증가로 전화통화나 SNS 연결 없이도 구매가 가능한 간편한 주문제작 케이크 웹사이트를 제작. <br>**PART** : 관리자 페이지 (기여도 50%)<br>**LIST** : 구매가능 상품 추가 삭제 구현 / 주문 상태 변경 구현 / 물품 게시판 페이징 구현<br>**STACK** : Java, JS, Mysql  <br>🔖:[Git링크](https://github.com/vxornjs11/MVC_Allways)|
+  |주문제작 케이크 ALLWAYS|2022.11.2~ <br>   11.15| 주문제작 케이크의 수요 증가로 전화통화나 SNS 연결 없이도 구매가 가능한 간편한 주문제작 케이크 웹사이트를 제작. <br>**PART** : 관리자 페이지 (기여도 50%)<br>**LIST** : 구매가능 상품 추가 삭제 구현 / 주문 상태 변경 구현 / 물품 게시판 페이징 구현<br>**STACK** : Java, JS, Mysql  <br>🔖:[Git링크](https://github.com/vxornjs11/MVC_Allways) <img src="https://user-images.githubusercontent.com/113036608/213998064-91428e50-80ec-4e94-b89c-dd6f9217d162.png" width="30" height="15" />([유튜브링크](https://www.youtube.com/watch?v=ZphHRdIfOyE))||
   |주문제작 케이크 ALLWAYS(Spring)|2022.11.17~  <br>  11.24| 기존 java와 jsp로 제작한 ALLWAYS 프로젝트를 Spring코드로 바꾸는 작업을 진행하였습니다. <br>**PART** : 관리자 페이지 (기여도 50%)<br>**LIST** : 구매가능 상품 추가 삭제 구현 / 주문 상태 변경 구현 / 물품 게시판 페이징 구현<br>**STACK** : Spring, JS, css, Mysql  <br>🔖:[Git링크](https://github.com/vxornjs11/spring_portfolio1/tree/main)|
   |R_머신러닝|2022.12.10~1  <br>  2.14| R을 통한 머신러닝 AI 학습(Random Forest,의사결정 나무 등등)을 익히고 데이터 분석기술을 익혔습니다. **STACK** : R. |
   |강아지 BMI 테스트 Mung!|2022.12.23~  <br>  12.27| main프로젝트을 진행 하기 전 Flutter와 dart의 기본 문법과 기술을 통하여 강아지의 비만 정도를 체크할 수 있는 강아지 BMI검사 앱을 만들었습니다. <br>**PART** : 개인프로젝트 (기여도 100%)<br>**LIST** : pickerview, listview, 강아지 몸무게 변회 일간 chart, <br>**STACK** : Dart, Mysql,java,jsp|
