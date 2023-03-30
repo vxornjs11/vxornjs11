@@ -2,7 +2,7 @@
 
 ### notion
 -------------
-📓notion: https://www.notion.so/0df6b10a19704f7caaea7fe0fe3ff3ba?pvs=4 <br><br><br>
+📓notion: https://www.notion.so/0df6b10a19704f7caaea7fe0fe3ff3ba <br><br><br>
 
 Stacks 기술 스택
 -------------
@@ -34,6 +34,7 @@ Stacks 기술 스택
   |Flutter semi project|2022.12.23~  <br>  12.27|강아지 bmi계산|
   |Flutter main project|2023.1.9~  <br>  1.23|R을 이용한 AI 머신러닝 학습을 통한 중고차 시세예측 프로젝트 <br> 🔖:[Git링크](https://github.com/vxornjs11/R-Spring-Flutter/tree/parktekwon) <img src="https://user-images.githubusercontent.com/113036608/213998064-91428e50-80ec-4e94-b89c-dd6f9217d162.png" width="30" height="15" />[유튜브링크](https://www.youtube.com/watch?v=fujMvps_eR8&t=166s)|
   |Flutter main project|2023.2.9~  <br>  2.27|Python을 이용한 AI 머신러닝 학습을 통한 지방소멸예측 프로젝트 <br> 🔖:[Git링크](https://github.com/vxornjs11/Pytone_Flutter/tree/parktaekwon) <img src="https://user-images.githubusercontent.com/113036608/213998064-91428e50-80ec-4e94-b89c-dd6f9217d162.png" width="30" height="15" />[유튜브링크](https://www.youtube.com/watch?v=4L9FszCCiu0&t=8s)|
+   |Flutter main project|2023.3.7~  <br>  3.27|Flutter 악기 중고거래 앱개발 및 DL 악기판별 AI모델 개발 <br> 🔖:[Git링크](https://github.com/vxornjs11/DL.Replay/tree/ParkTK) <img src="https://user-images.githubusercontent.com/113036608/213998064-91428e50-80ec-4e94-b89c-dd6f9217d162.png" width="30" height="15" />[유튜브링크](https://www.youtube.com/watch?v=8RAT5XBvUno)|
   
   
   
@@ -47,5 +48,6 @@ Stacks 기술 스택
   |주문제작 케이크 ALLWAYS(Spring)|2022.11.17~  <br>  11.24| 기존 java와 jsp로 제작한 ALLWAYS 프로젝트를 Spring코드로 바꾸는 작업을 진행하였습니다. <br>**PART** : 관리자 페이지 (기여도 30%)<br>**LIST** : 구매가능 상품 추가 삭제 구현 / 주문 상태 변경 구현 / 물품 게시판 페이징 구현<br>**STACK** : Spring, JS, css, Mysql  <br>🔖:[Git링크](https://github.com/vxornjs11/spring_portfolio1/tree/main)|
   |R_머신러닝|2022.12.10~1  <br>  2.14| R을 통한 머신러닝 AI 학습(Random Forest,의사결정 나무 등등)을 익히고 데이터 분석기술을 익혔습니다. **STACK** : R. |
   |강아지 BMI 테스트 Mung!|2022.12.23~  <br>  12.27| main프로젝트을 진행 하기 전 Flutter와 dart의 기본 문법과 기술을 통하여 강아지의 비만 정도를 체크할 수 있는 강아지 BMI검사 앱을 만들었습니다. <br>**PART** : 개인프로젝트 (기여도 100%)<br>**LIST** : pickerview, listview, 강아지 몸무게 변회 일간 chart, <br>**STACK** : Dart, Mysql,java,jsp|
-  |Carbot(중고차 시세예측)|2023.1.9~  <br>  1.23| 중고차 시장에서 구매자가 자신의 자동차 시세를 알기란 어려운 일입니다. 따라서 간편하게 자신의 자동차 옵션과 사용 기록을 입력하면 중고차 ㅣ시장에서의 최소 가격과 최대 가격을 알려주는 앱을 제작하였습니다. <br> **PART** : 중고차 시세예측 (기여도 30%)<br>**LIST** : 중고차 옵션 입력시 예측 값 출력 구현, Rserve를 이용한 spring과 R연결 구현, 중고차 년도별 금액 Chart 구현 <br>**STACK** : Dart, springboot, R, firebase , Mysql, <br>🔖:[Git링크](https://github.com/vxornjs11/R-Spring-Flutter/tree/parktekwon) <img src="https://user-images.githubusercontent.com/113036608/213998064-91428e50-80ec-4e94-b89c-dd6f9217d162.png" width="30" height="15" />[유튜브링크](https://www.youtube.com/watch?v=fujMvps_eR8&t=166s)|
-  |Localnow(지방소멸예측)|2023.2.9~  <br>  2.27| 지방소멸의 심각성을 이용자들에게 알려주기 위한 지방소멸예측 앱을 개발하였습니다. <br> **PART** : 지방소멸예측 (기여도 30%)<br>**LIST** : 지방소멸 퀴즈, KaKao공유 API, Firebase 랭킹시스템 구현 <br>**STACK** : Dart, Python, firebase, <br>🔖:[Git링크](https://github.com/vxornjs11/Pytone_Flutter/tree/parktaekwon) <img src="https://user-images.githubusercontent.com/113036608/213998064-91428e50-80ec-4e94-b89c-dd6f9217d162.png" width="30" height="15" />[유튜브링크](https://www.youtube.com/watch?v=4L9FszCCiu0&t=8s)|
+  |Carbot(중고차 시세예측)|2023.1.9~  <br>  1.23| 중고차 시장에서 구매자가 자신의 자동차 시세를 알기란 어려운 일입니다. 따라서 간편하게 자신의 자동차 옵션과 사용 기록을 입력하면 중고차 ㅣ시장에서의 최소 가격과 최대 가격을 알려주는 앱을 제작하였습니다. <br> **PART** : 중고차 시세예측 (기여도 50%)<br>**LIST** : 중고차 옵션 입력시 예측 값 출력 구현, Rserve를 이용한 spring과 R연결 구현, 중고차 년도별 금액 Chart 구현 <br>**STACK** : Dart, springboot, R, firebase , Mysql, <br>🔖:[Git링크](https://github.com/vxornjs11/R-Spring-Flutter/tree/parktekwon) <img src="https://user-images.githubusercontent.com/113036608/213998064-91428e50-80ec-4e94-b89c-dd6f9217d162.png" width="30" height="15" />[유튜브링크](https://www.youtube.com/watch?v=fujMvps_eR8&t=166s)|
+  |Localnow(지방소멸예측)|2023.2.9~  <br>  2.27| 지방소멸의 심각성을 이용자들에게 알려주기 위한 지방소멸예측 앱을 개발하였습니다. <br> **PART** : 지방소멸예측 (기여도 50%)<br>**LIST** : 지방소멸 퀴즈, KaKao공유 API, Firebase 랭킹시스템 구현 <br>**STACK** : Dart, Python, firebase, <br>🔖:[Git링크](https://github.com/vxornjs11/Pytone_Flutter/tree/parktaekwon) <img src="https://user-images.githubusercontent.com/113036608/213998064-91428e50-80ec-4e94-b89c-dd6f9217d162.png" width="30" height="15" />[유튜브링크](https://www.youtube.com/watch?v=4L9FszCCiu0&t=8s)|
+   |RePlay(악기중고거래)|2023.3.7~  <br>  3.27| 악기를 전문적으로 다루는 중고거래 앱을 개발 하였습니다. <br> **PART** : 지방소멸예측 (기여도 50%)<br>**LIST** : 게시판, 검색기능, 서버 이미지 업로드, 채팅 기능 <br>**STACK** : Dart, Python, firebase, MySQL, Springboot <br>🔖:[Git링크](https://github.com/vxornjs11/DL.Replay/tree/ParkTK) <img src="https://user-images.githubusercontent.com/113036608/213998064-91428e50-80ec-4e94-b89c-dd6f9217d162.png" width="30" height="15" />[유튜브링크](https://www.youtube.com/watch?v=8RAT5XBvUno)|
